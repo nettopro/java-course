@@ -1,4 +1,0 @@
---patch-module
-app.logging=_
---add-reads
-app.logging=ALL-UNNAMED
