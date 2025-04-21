@@ -1,0 +1,4 @@
+--patch-module
+app.finance=_
+--add-reads
+app.finance=ALL-UNNAMED

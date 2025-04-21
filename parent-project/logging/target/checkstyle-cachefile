@@ -1,0 +1,4 @@
+#Mon Apr 21 02:58:56 BRT 2025
+configuration*?=4C6413781FC01AF9093FE2456C08E59984357393
+module-resource*?\:checkstyle/suppressions.xml=9CA03A70CBBBB7CED2E5A5ECF044F687343F0CEF
+C\:\\PROGRAMMING\\PROJETOS\\JAVA\\ALGORITMOS\\parent-project\\logging\\src\\main\\java\\app\\logging\\Logger.java=1745209671706

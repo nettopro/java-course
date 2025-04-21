@@ -7,6 +7,8 @@
   <modules>
     <module>calculation</module>
     <module>finance</module>
+    <module>logging</module>
+    <module>public-api</module>
   </modules>
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
