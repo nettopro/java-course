@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "mine-sweeper/src",
+        "exercises/src",
+        "mine-sweeper/test"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "mine-sweeper/lib/junit-platform-console-standalone-1.12.1.jar",
+        "exercises/lib/mysql-connector-j-9.2.0.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "maven.view": "hierarchical"
+}
