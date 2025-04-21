@@ -1,3 +1,11 @@
-basic\FirstFX.class
+layout\Square.class
+layout\TestGridPane.class
 basic\Counter.class
+layout\TestAnchorPane.class
 module-info.class
+layout\TestBorderPane.class
+basic\Wizard.class
+basic\FirstFX.class
+layout\AppLayout.class
+layout\TestFlowPlane.class
+layout\Box.class

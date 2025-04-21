@@ -7,7 +7,7 @@ import javafx.scene.layout.FlowPane;
 
 public class TestFlowPlane extends FlowPane{
 
-    TestFlowPlane(){
+    public TestFlowPlane(){
         Square s1 = new Square();
         Square s2 = new Square();
         Square s3 = new Square();
@@ -21,6 +21,6 @@ public class TestFlowPlane extends FlowPane{
         setOrientation(Orientation.VERTICAL);
         setAlignment(Pos.CENTER_RIGHT);
 
-        getChildren().addAll(s1,s2,s3,s4,s5);
+        getChildren().addAll(s1, s2, s3, s4, s5);
     }
 }

@@ -13,13 +13,13 @@ public class Square extends Rectangle{
     };
 
     public Square(){
-        this(100,100);
+        this(100);
     }
 
-    public Square(int width,int height) {
+    public Square(int size) {
 
-        setWidth(width);
-        setHeight(height);
+        setWidth(size);
+        setHeight(size);
 
         setFill(Color.web(colors[i++]));
 

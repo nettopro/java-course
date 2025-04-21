@@ -10,9 +10,12 @@ public class AppLayout extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         Parent root = null;
-        root = new TestAnchorPane();
+        /* root = new TestAnchorPane();
         root = new TestBorderPane();
         root = new TestFlowPlane();
+        root = new TestGridPane();
+        root = new TestStackPane(); */
+        root = new TestTilePane();
 
         Scene main = new Scene(root, 800, 600);
 
