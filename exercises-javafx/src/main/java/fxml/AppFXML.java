@@ -12,10 +12,12 @@ public class AppFXML extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
+        String cssFile = getClass().getResource("/fxml/Login.css").toExternalForm();
         URL FXMLfile = getClass().getResource("/fxml/Login.fxml");
         GridPane root = FXMLLoader.load(FXMLfile);
 
         Scene scene = new Scene(root, 350, 400);
+        scene.getStylesheets().add(cssFile);
 
         primaryStage.setResizable(false);
         primaryStage.setTitle("Login Screen");

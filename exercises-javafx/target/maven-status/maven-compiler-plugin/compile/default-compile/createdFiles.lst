@@ -2,10 +2,14 @@ layout\Square.class
 layout\TestGridPane.class
 basic\Counter.class
 layout\TestAnchorPane.class
-module-info.class
-layout\TestBorderPane.class
 basic\Wizard.class
 basic\FirstFX.class
+layout\TestStackPane.class
 layout\AppLayout.class
 layout\TestFlowPlane.class
+fxml\AppFXML.class
+module-info.class
+layout\TestBorderPane.class
+fxml\LoginController.class
+layout\TestTilePane.class
 layout\Box.class
