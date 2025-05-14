@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Java Spring Boot Course",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
