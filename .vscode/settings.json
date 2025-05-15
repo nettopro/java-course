@@ -10,5 +10,6 @@
         "exercises/lib/mysql-connector-j-9.2.0.jar"
     ],
     "java.configuration.updateBuildConfiguration": "interactive",
-    "maven.view": "hierarchical"
+    "maven.view": "hierarchical",
+    "java.compile.nullAnalysis.mode": "automatic"
 }

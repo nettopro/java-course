@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import github.nettopro.exercises_sb.models.Client;
+import github.nettopro.exercises_sb.model.entities.Client;
 
 @RestController
 @RequestMapping(path = "/clients")

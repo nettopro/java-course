@@ -1,4 +1,4 @@
-package github.nettopro.exercises_sb.models;
+package github.nettopro.exercises_sb.model.entities;
 
 public class Client {
     
