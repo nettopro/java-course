@@ -1,0 +1,18 @@
+meta {
+  name: Update Product
+  type: http
+  seq: 4
+}
+
+put {
+  url: http://localhost:8080/api/products?id=1&price=4500.25&name=Laptop&discount=null
+  body: none
+  auth: inherit
+}
+
+params:query {
+  id: 1
+  price: 4500.25
+  name: Laptop
+  discount: null
+}
